@@ -1,0 +1,395 @@
+Dependencies for Project 'SerialSW', Target 'SerialSW': (DO NOT MODIFY !)
+F (.\main_serialsw.c)(0x5D143C38)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\main_serialsw.o --omf_browse .\objects\main_serialsw.crf --depend .\objects\main_serialsw.d)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_gpio.h)(0x5D09F83B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h)(0x5D12BF8E)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\uart.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (crc16.h)(0x5CEFB064)
+I (afproto.h)(0x5CF4D2E3)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rvmdk\driverlib.lib)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\adc.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_adc.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\adc.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\aes.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\aes.o --omf_browse .\objects\aes.crf --depend .\objects\aes.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_aes.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ccm.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\aes.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\can.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\can.o --omf_browse .\objects\can.crf --depend .\objects\can.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_can.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\can.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\comp.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\comp.o --omf_browse .\objects\comp.crf --depend .\objects\comp.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_comp.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\comp.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\cpu.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\cpu.o --omf_browse .\objects\cpu.crf --depend .\objects\cpu.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\cpu.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\crc.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\crc.o --omf_browse .\objects\crc.crf --depend .\objects\crc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ccm.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\crc.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\des.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\des.o --omf_browse .\objects\des.crf --depend .\objects\des.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_des.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\des.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\eeprom.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\eeprom.o --omf_browse .\objects\eeprom.crf --depend .\objects\eeprom.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_eeprom.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_flash.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\flash.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\eeprom.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\emac.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\emac.o --omf_browse .\objects\emac.crf --depend .\objects\emac.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_emac.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\emac.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sw_crc.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\epi.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\epi.o --omf_browse .\objects\epi.crf --depend .\objects\epi.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_epi.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\epi.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\flash.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\flash.o --omf_browse .\objects\flash.crf --depend .\objects\flash.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_flash.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\flash.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\fpu.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\fpu.o --omf_browse .\objects\fpu.crf --depend .\objects\fpu.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\fpu.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_gpio.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\hibernate.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\hibernate.o --omf_browse .\objects\hibernate.crf --depend .\objects\hibernate.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x5CEB87E6)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_hibernate.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\hibernate.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\i2c.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_i2c.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\i2c.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\interrupt.o --omf_browse .\objects\interrupt.crf --depend .\objects\interrupt.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\cpu.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\lcd.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_lcd.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\lcd.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\mpu.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\mpu.o --omf_browse .\objects\mpu.crf --depend .\objects\mpu.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\mpu.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\onewire.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\onewire.o --omf_browse .\objects\onewire.crf --depend .\objects\onewire.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_onewire.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\onewire.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pwm.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_pwm.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pwm.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\qei.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\qei.o --omf_browse .\objects\qei.crf --depend .\objects\qei.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_qei.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\qei.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\shamd5.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\shamd5.o --omf_browse .\objects\shamd5.crf --depend .\objects\shamd5.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_shamd5.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\shamd5.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ssi.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\ssi.o --omf_browse .\objects\ssi.crf --depend .\objects\ssi.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ssi.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ssi.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sw_crc.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\sw_crc.o --omf_browse .\objects\sw_crc.crf --depend .\objects\sw_crc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sw_crc.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\sysctl.o --omf_browse .\objects\sysctl.crf --depend .\objects\sysctl.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_flash.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\cpu.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysexc.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\sysexc.o --omf_browse .\objects\sysexc.crf --depend .\objects\sysexc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysexc.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\systick.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_nvic.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\systick.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\timer.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_timer.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\timer.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\uart.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_uart.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\uart.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\udma.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\udma.o --omf_browse .\objects\udma.crf --depend .\objects\udma.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_udma.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\udma.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\usb.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\usb.o --omf_browse .\objects\usb.crf --depend .\objects\usb.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_usb.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\udma.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\usb.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\watchdog.c)(0x5D09F80B)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\watchdog.o --omf_browse .\objects\watchdog.crf --depend .\objects\watchdog.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEB87EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_types.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_watchdog.h)(0x5D09F83B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\watchdog.h)(0x5D09F80B)
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\adc.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\aes.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\can.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\comp.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\cpu.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\crc.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\debug.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\des.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\eeprom.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\emac.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\epi.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\flash.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\fpu.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\hibernate.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\i2c.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\lcd.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\mpu.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\onewire.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h)(0x5D12BF8E)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pwm.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\qei.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\readme.txt)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rom.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rom_map.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rtos_bindings.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\shamd5.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\ssi.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sw_crc.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysexc.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\systick.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\timer.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\uart.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\udma.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\usb.h)(0x5D09F80B)()
+F (C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\watchdog.h)(0x5D09F80B)()
+F (..\Afproto-master\C\afproto.h)(0x5CF4D2E3)()
+F (..\Afproto-master\C\crc16.h)(0x5CEFB064)()
+F (..\Afproto-master\C\afproto.c)(0x5D143BFF)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\afproto.o --omf_browse .\objects\afproto.crf --depend .\objects\afproto.d)
+I (..\Afproto-master\C\afproto.h)(0x5CF4D2E3)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (..\Afproto-master\C\crc16.h)(0x5CEFB064)
+F (..\Afproto-master\C\crc16.c)(0x5D142E38)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\crc16.o --omf_browse .\objects\crc16.crf --depend .\objects\crc16.d)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x5CECED1A)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550A1F8A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I C:\StellarisWare -I ..\..\..\6_VisualStudio2015\Afproto-master\Afproto-master\C -I C:\ti\TivaWare_C_Series-2.1.4.178 -I ..\Afproto-master\C-I.\RTE\_SerialSW-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="528" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB87F2)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EACA6)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550F9BDC)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8F5BE4)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B972254)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8F5BE4)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8F5BE4)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F5BE4)
+I (C:\Users\NguyenThanhTam\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B69DB6)

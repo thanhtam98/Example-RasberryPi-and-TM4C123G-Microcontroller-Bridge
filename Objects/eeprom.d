@@ -1,0 +1,13 @@
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\eeprom.c
+.\objects\eeprom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_eeprom.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_flash.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_sysctl.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/flash.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\objects\eeprom.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/eeprom.h

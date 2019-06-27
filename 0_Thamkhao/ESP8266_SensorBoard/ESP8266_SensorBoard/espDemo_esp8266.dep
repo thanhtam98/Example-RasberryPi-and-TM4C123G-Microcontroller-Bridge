@@ -1,0 +1,20 @@
+Dependencies for Project 'espDemo', Target 'esp8266': (DO NOT MODIFY !)
+F (.\startup.s)(0x54F7BEE2)(--cpu Cortex-M4 -g --apcs=interwork --pd "__MICROLIB SETA 1"-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123--pd "__UVISION_VERSION SETA 522"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x58DA2DD6)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\.. --C99-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123-D__UVISION_VERSION="522" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdio.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdbool.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\string.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdlib.h)(0x57F614C8)
+F (.\pll.c)(0x55ED3ABE)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\.. --C99-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123-D__UVISION_VERSION="522" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+F (.\esp8266.c)(0x58DA2DD6)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\.. --C99-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123-D__UVISION_VERSION="522" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\esp8266.o --omf_browse .\esp8266.crf --depend .\esp8266.d)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdio.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdbool.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\string.h)(0x57F614C8)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdlib.h)(0x57F614C8)
+F (.\UART.c)(0x56B1C1FC)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\.. --C99-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123-D__UVISION_VERSION="522" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+F (.\LED.c)(0x55FAE050)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .. -I ..\..\.. --C99-IE:\1_Software\2_KeilC\ARM\RV31\INC-IE:\1_Software\2_KeilC\ARM\CMSIS\Include-IE:\1_Software\2_KeilC\ARM\Inc\TI\TM4C123-D__UVISION_VERSION="522" -Drvmdk -DPART_TM4C123GH6PM -DTM4C123GH6PM-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (E:\1_Software\2_KeilC\ARM\ARMCC\include\stdint.h)(0x57F614C8)

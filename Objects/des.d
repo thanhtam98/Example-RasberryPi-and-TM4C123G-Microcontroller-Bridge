@@ -1,0 +1,10 @@
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\des.c
+.\objects\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\des.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_des.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_ints.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_types.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/debug.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/des.h
+.\objects\des.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/interrupt.h
